@@ -4,7 +4,7 @@
 <h3 align="left">- 📫 How to reach me: </h3>
 <p align="left">
   <a href='https://www.linkedin.com/in/mariuszwozniak145' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=plastic&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-  <a href='mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/ochota.dariusz@gmail.com-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=CD403A&color=CD403A'/></a>
+  <a href='mailto:mariuszwozniak145@gmail.com?subject=[GitHub]%20Source%20Han%20Sans' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/mariuszwozniak145@gmail.com-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=CD403A&color=CD403A'/></a>
 </p>
 
 <h3 align="left">Languages and Tools: </h3>
