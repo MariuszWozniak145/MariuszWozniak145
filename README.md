@@ -25,3 +25,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWozniak145&layout=compact&theme=gotham" />
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWozniak145)](https://github.com/MariuszWozniak145/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWozniak145&hide_progress=false&theme=onedark&hide_border=true&layout=compact)](https://github.com/MariuszWozniak145)
