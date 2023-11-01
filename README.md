@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mariusz</h1>
+<h1 align="center">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=215&lines=Hi 👋, I'm Mariusz"/>
+</h1>
+
 <h3 align="center">Junior Full-stack Developer</h3>
 
 <h3 align="center">📫 How to reach me:</h3>
@@ -42,7 +45,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 </p>
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWozniak145&hide_progress=false&theme=gotham&hide_border=true&layout=compact)](https://github.com/MariuszWozniak145)
 
