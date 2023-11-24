@@ -46,7 +46,7 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=MariuszWozniak145&theme=dracula" alt = "ignacio-cuadra"/>
+  <img src="https://www.codewars.com/users/MariuszWozniak145/badges/large" alt = "ignacio-cuadra"/>
 </p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWozniak145&hide_progress=false&theme=gotham&hide_border=true&layout=compact)](https://github.com/MariuszWozniak145)
