@@ -46,12 +46,10 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://www.codewars.com/users/MariuszWozniak145/badges/large" alt = "ignacio-cuadra"/>
+  <img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=MariuszWozniak145&theme=dark" alt = "ignacio-cuadra"/>
 </p>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWozniak145&hide_progress=false&theme=gotham&hide_border=true&layout=compact)](https://github.com/MariuszWozniak145)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWozniak145&hide_progress=false&theme=tokyonight&hide_border=true&layout=compact" alt = "ignacio-cuadra"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWozniak145&theme=tokyonight)
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MariuszWozniak145&theme=algolia&show_icons=true)](https://github.com/MariuszWozniak145)
--->
